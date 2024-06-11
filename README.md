@@ -1,5 +1,3 @@
-#Classificação e Regressão com Scikit-Learn</title>
-
   <h1>Classificação e Regressão com Scikit-Learn</h1>
   <h2>Classificação</h2>
   <h3>Algoritmos Implementados:</h3>
